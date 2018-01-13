@@ -1,0 +1,549 @@
+<!DOCTYPE html>
+<html class="noJS en-US">
+<!-- Splash -->
+<head><script>_start=new Date</script><title>
+	Myspace | Social Entertainment
+</title>
+<script>
+	(function(d){(function(o,e,s,g,p,t,j){e.className=e.className.replace('noJS','hasJS');_gaq=[['_setAccount', 'UA-6293770-1'],['_setCustomVar',3,'Logged-in','false',3],function(){d.title='Splash'||'NO PFC'},['_trackPageview'],function(){d.title=t}];for(j in window)o[j]=1;g.src=p+('https:'==p?'//ssl':'//www')+'.google-analytics.com/ga.js';g.async=true;s.parentNode.insertBefore(g,s);window.delta=function(){var k=[],i;for(i in window)if(o[i]!==1)k.push(i);return k;};})({delta:1},d.documentElement,d.getElementsByTagName('script')[0],d.createElement('script'),d.location.protocol,d.title)})(document);</script><meta name="keywords" content="myspace, social entertainment, social network, social media" /><meta http-equiv="expires" content="0" /><meta http-equiv="Pragma" content="no-cache" /><meta name="description" content="Myspace is the leading social entertainment destination powered by the passion of fans. Music, movies, celebs, TV, and games made social." />
+    <meta name="fragment" content="!">
+	
+    <meta name="verify-v1" content="7YGMEkLzqZwwDvnyumG9QeSJq7JgzCye9uyzdjF5j0s=" />
+	<meta property="fb:app_id" content="109417482436806" />
+    <link rel="search" type="application/opensearchdescription+xml" href="http://cms.myspacecdn.com/cms/api/opensearch_people.xml"
+        title="MySpace People" />
+    <link rel="search" type="application/opensearchdescription+xml" href="http://cms.myspacecdn.com/cms/api/opensearch_videos.xml"
+        title="MySpace Videos" />
+    <link rel="search" type="application/opensearchdescription+xml" href="http://cms.myspacecdn.com/cms/api/opensearch_images.xml"
+        title="MySpace Images" />
+
+	
+	
+	
+
+<link rel="canonical" href="http://www.myspace.com/" /><script>_start.BeforeCSS=+new Date</script>
+<link rel="stylesheet" type="text/css" href="https://x.myspacecdn.com/modules/common/static/css/futuraglobal_jttlcbyk.css" />
+<link rel="stylesheet" type="text/css" href="https://x.myspacecdn.com/modules/common/static/css/futura/icons_gro8hfy0.css" />
+
+<link rel="stylesheet" type="text/css" href="https://x.myspacecdn.com/modules/splash/static/css/splashv2bundle_a2lxi3z1.css" />
+
+<style type="text/css">
+
+body { background: #1e1e1e  no-repeat fixed center top; }
+#row1, #row2 { background-color: #000000;  color: #999999; } #row2 .title,  #row2 .colTitle, #row2 .subtitle, #row2 .linksColumn h5 a, #row2 .linksColumn a { color: #999999; } #row2 .title:hover, #row2 .subtitle:hover, #row2 .linksColumn h5 a:hover, , #row2 .linksColumn a:hover { color: #FF9900; } #row2 .textlink { background-color: #FFF; } #row2 .textlink:hover { color: #000; } 
+</style>
+<script>_start.AfterCSS=+new Date</script></head>
+<body class="layout_1_2_1">
+	
+	
+	
+<header id="globalHeader">
+	<nav id="globalNav" class="group">
+		
+<h1>
+    <a id="msStaticLogo" class="MSIcon MSLogo" href="http://www.myspace.com/">Myspace</a>
+</h1>
+<div id="flashLogoContainer">
+    <a href="http://www.myspace.com/"><span id="logoInTrigger">Myspace</span></a>
+    <div id="msFlashLogos"></div>
+    <div id="logoTrigger"></div>
+</div>
+
+        
+		<a id="headerSignUp" href="https://www.myspace.com/signup" class="glue signup">Sign up</a>
+	 
+	<a id="NLLogin" href="https://www.myspace.com/auth/form" class="loginPopupButton">Login</a>
+
+
+<div id="headerSearch" class="search">
+	<form id="MSSearchForm" action="/search/people" method="get"><fieldset><input id="MSSearchInput" name="q" type="text" placeholder="Search People" autocomplete="off" data-searchtype="People"></input><button type="submit" class="glue utility iconOnly"><span class="MSIcon searchIconDark"></span></button></fieldset></form>	
+</div><a href="http://www.myspace.com/music">Music</a>
+	<a href="http://www.myspace.com/video" client="">Video</a>		
+    <a id="NLLOGames" href="http://www.myspace.com/games">Games</a>
+    
+    <a href="http://www.myspace.com/browse/people">Browse People</a>
+
+	</nav>
+</header>
+
+
+	
+	<div class="wrap">
+		
+				<a id="backgroundHijackLink" href="http://www.myspace.com/music/player"><img src="http://cms.myspacecdn.com/cms/x/12/9/POMPrail.png" /></a>
+		
+		<div id="leaderboard">
+		
+		</div>
+		<div class="container">
+			
+			<article>
+				
+    <div class="layout"><section class="row row0 rowPath0 rowDepth0" id="row0"><section class="column column0 columnPath0_0 columnDepth1 firstColumn lastColumn allowDrop" id="col0_0"><article class="module module1 columnModule0 odd NewMyspaceOverlayModule" id="module-6" data-mt="-1892716141" data-area="Splash">
+<div class="wrapper">
+<section class="content moduleBody">
+
+
+
+<div class="newMyspaceOverlay glue-overlay"></div>
+<div class="newMyspaceOverlayCenter">
+	<div>
+		<h3>Where would you like to go?</h3>
+		<a class="classicMyspace" href="#">
+			<img src="https://x.myspacecdn.com/modules/splash/static/img/oldmyspace.gif" />
+			<h4>Classic Myspace</h4>
+			<p>myspace.com</p>
+		</a>
+		<p>OR</p>
+		<a class="newMyspace" href="https://new.myspace.com">
+			<img src="https://x.myspacecdn.com/modules/splash/static/img/newmyspace.gif" />
+			<h4>New Myspace</h4>
+			<p>new.myspace.com</p>
+		</a>
+
+	</div>
+</div>
+<div class="newMyspaceOverlayFooter"><span></span></div>
+</section></div>
+</article>
+<article class="module module2 columnModule1 even HeroUnitModule" id="module-1" data-mt="1059737436" data-area="Splash">
+<div class="wrapper">
+<section class="content moduleBody">
+<div id="marketing">
+                <div id="swf"><a href="https://new.myspace.com" target="_blank" onclick="MySpace.CMS.track('7f49ef13-38ea-4df8-97e3-ffc5c56a17cc','138643')">
+<img src="http://cms.myspacecdn.com/cms/x/13/3/hero_newms_signup.gif" alt="The new Myspace: Sign up now!" width="960" height="250" />
+</a></div>
+                <div id="ad"><div id="tkn_medrec" class="ad_container medrec" style="height:250px;"></div></div>
+</div></section></div>
+</article>
+<section class="columnEnd"></section></section><section class="rowEnd"></section></section><section class="row row1 rowPath1 rowDepth0" id="row1"><section class="column column0 columnPath1_0 columnDepth1 firstColumn allowDrop" id="col1_0"><article class="module module3 columnModule0 odd InfoGraphicModule" id="module-2" data-mt="1564706570" data-area="Splash">
+<div class="wrapper">
+<section class="content moduleBody">
+<div class="infographicColumn">
+	<a href="https://new.myspace.com/discover/trending/2013/05/03/talk-that-talk-chuck-inglish-makes-peace-with-his-odd-future-envy/"><img alt="Talk that Talk Chuck Inglish Makes Peace With His Odd Future Envy" src="http://cms.myspacecdn.com/cms/x/13/21/052013-inglish-318x240.jpg" /></a>
+</div><div class="infographicColumn">
+	<a href="https://new.myspace.com/discover/trending/2013/05/15/before-the-sex-before-the-city-awesomely-80s-the-music-of-the-carrie-diaries"><img alt="Before The Sex, Before The City Awesomely &#39;80s: The Music of &#39;The Carrie Diaries&#39;" src="http://cms.myspacecdn.com/cms/x/13/21/052013-carrie-318x240.jpg" /></a>
+</div></section></div>
+</article>
+<section class="columnEnd"></section></section><section class="column column1 columnPath1_1 columnDepth1 lastColumn allowDrop" id="col1_1"><article class="module module4 columnModule0 odd SignUpV2Module draggable" id="module-3" data-mt="504435417" data-area="Splash">
+<div class="wrapper">
+<section class="content moduleBody">
+
+<div class="splashSignUp">
+	<p class="submit">
+		<a href="https://www.myspace.com/signup" class="glue signup">
+			Sign up free</a>
+	</p>
+	<p class="login">
+		<strong>
+			Already a member?</strong> <a class="glue loginPopupButton"
+				href="https://www.myspace.com/auth/form">
+				Login</a>
+	</p>
+	
+
+<div class="fboMashup">
+    <p class="divider">
+        <strong>OR</strong>
+    </p>
+    <p class="facebookImport">
+        <a class="btnFacebook" href="https://graph.facebook.com/oauth/authorize?client_id=109417482436806&redirect_uri=http%3A%2F%2Fwww.myspace.com%2Ffbocallback%3Fuhp%3Duhp&scope=email,offline_access,user_about_me,user_birthday,user_likes,publish_stream,publish_actions&display=popup" target="_blank">
+            <img src="https://x.myspacecdn.com/modules/splash/static/img/fb_logo.gif" />
+            <span>Connect with Facebook</span>
+        </a>
+    </p>
+    <p class="facepile">
+        
+    </p>
+    <div class="learnmoretext" style="display:none;">
+        To help save you time setting up your profile (and give you more of the things you love), we can pull your interests (like movies, music, and celebs) and public profile info (name, email, gender, birth date, and photo) from Facebook and automatically add and follow them on your Myspace profile.  Don't worry, you'll be able to edit it later!
+    </div>
+</div>
+</div>
+</section></div>
+</article>
+<section class="columnEnd"></section></section><section class="rowEnd"></section></section><section class="row row2 rowPath2 rowDepth0" id="row2"><section class="column column0 columnPath2_0 columnDepth1 firstColumn lastColumn allowDrop" id="col2_0"><article class="module module5 columnModule0 odd ContentBlockModule" id="module-4" data-mt="-345183400" data-area="Common">
+<div class="wrapper">
+<section class="content moduleBody">
+<ul>
+	<li class="columnSpan3"><div>
+		<ul class="imageColumn ">
+			<li><a href="http://www.myspace.com/topplaylists"><img alt="Top Playlists" src="http://cms.myspacecdn.com/cms/x/12/40/BELT-TopPlaylists-315x65.gif" /></a></li><li><a href="http://www.myspace.com/whats-hot?pm_cmp=ed_spl_MSBELT"><img alt="What&#39;s Hot Blog" src="http://cms.myspacecdn.com/cms/x/12/40/BELT-WhatsHot-315x65.gif" /></a></li><li><a href="http://www.myspace.com/whats-hot/category/music-news?pm_cmp=ed_spl_3mus_splash"><img alt="Music News" src="http://cms.myspacecdn.com/cms/x/12/10/00-MusicNews-318x25.png" /></a></li><li><a href="https://new.myspace.com/mseditorial/mixes/ultra-music-festival-secret-show-steve-angello-3-22-5494"><img alt="Secret Show Mix: Steve Angello does Miami" src="http://cms.myspacecdn.com/cms/x/13/12/032013-SteveAngello-318x160.jpg" /></a></li><li><a href="https://new.myspace.com/discover/trending/2013/03/18/thinking-to-pieces-britpop-is-back"><img alt="Britpop is back: Blur, Pulp and Suede are as cool as ever" src="http://cms.myspacecdn.com/cms/x/13/12/032013-BritPop-318x160.jpg" /></a></li><li><a href="https://new.myspace.com/mseditorial/mixes/justin-timberlake-through-the-years-5452"><img alt="Justin Timberlake through the years: From cornrows to the world&#39;s most stylish man" src="http://cms.myspacecdn.com/cms/x/13/12/032013-Justin-318x160.jpg" /></a></li><li><a href="https://new.myspace.com/discover/trending/2013/03/17/saturday-night-cuddle-puddle"><img alt="SXSW: And Then It Got Weird…Cuddle Puddle!" src="http://cms.myspacecdn.com/cms/x/13/12/032013-Weird-318x160.jpg" /></a></li><li><a href="https://new.myspace.com/alicesmith/music/album/18965292"><img alt="Alice Smith: Hear the Sultry ‘She’ Now" src="http://cms.myspacecdn.com/cms/x/13/12/032013-AliceSmith-318x160.jpg" /></a></li><li><a href="http://www.myspace.com/whats-hot/category/music-news?pm_cmp=ed_spl_3mus_splash"><img alt="Music News: See All" src="http://cms.myspacecdn.com/cms/x/12/10/00-seeall.png" /></a></li>
+		</ul><ul class="imageColumn ">
+			<li><a href="http://www.myspace.com/music/songs/all-genres/most-popular?pm_cmp=ed_spl_MSBELT"><img alt="Top Music" src="http://cms.myspacecdn.com/cms/x/12/40/BELT-TopMusicIcon-315x65.gif" /></a></li><li><a href="http://www.myspace.com/funatthemovies"><img alt="Fun at the Movies" src="http://cms.myspacecdn.com/cms/x/12/40/BELT-FunAtMovies-315x65.gif" /></a></li><li><a href="http://www.myspace.com/whats-hot?pm_cmp=ed_spl_4cur_splash"><img alt="What’s Hot" src="http://cms.myspacecdn.com/cms/x/12/10/00-WhatsHot-318x25.png" /></a></li><li><a href="https://new.myspace.com/mseditorial/mixes/austin-shake-sxsw-in-100-photos-day-five-5485"><img alt="Photobombing SXSW 2103 in 100 pictures" src="http://cms.myspacecdn.com/cms/x/13/12/032013-Photobombing-318x160.jpg" /></a></li><li><a href="https://new.myspace.com/discover/trending/2013/03/17/an-alternative-to-ultra-fest-more-bowie-modern-jazz"><img alt="The Shuffle Board: Ultra Alternatives, Bowie &amp; Modern Jazz" src="http://cms.myspacecdn.com/cms/x/13/12/032013-Shuffle-318x160.jpg" /></a></li><li><a href="https://new.myspace.com/mseditorial/mixes/rip-jason-molina-5496"><img alt="RIP Jason Molina: Mourning the death of an indie gem" src="http://cms.myspacecdn.com/cms/x/13/12/032013-Molina-318x160.jpg" /></a></li><li><a href="https://new.myspace.com/mseditorial/mixes/-prayforweezy-5423"><img alt="#PrayForWeezy Mix: Lil Wayn&#39;es Greatest Songs" src="http://cms.myspacecdn.com/cms/x/13/12/032013-Weezy-318x160.jpg" /></a></li><li><a href="https://new.myspace.com/discover/trending/2013/03/14/throwback-thursday-revisiting-labyrinth-and-bowie-the-goblin-king"><img alt="Labyrinth Throwback: Revisiting Bowie The Goblin King" src="http://cms.myspacecdn.com/cms/x/13/12/032013-Labyrinth-318x160.jpg" /></a></li><li><a href="http://www.myspace.com/whats-hot?pm_cmp=ed_spl_4cur_splash"><img alt="Whats Hot: See All" src="http://cms.myspacecdn.com/cms/x/12/10/00-seeall.png" /></a></li>
+		</ul><ul class="imageColumn lastImageCol">
+			<li><a href="http://www.myspace.com/music/videos/all-genres/new-releases?pm_cmp=ed_spl_MSBELT"><img alt="Top Videos" src="http://cms.myspacecdn.com/cms/x/12/40/BELT-TopVideos-315x65.gif" /></a></li><li><a href="http://www.myspace.com/whats-hot/category/giveaways?pm_cmp=ed_spl_MSBELT"><img alt="Giveaways" src="http://cms.myspacecdn.com/cms/x/12/40/BELT-Giveaways-315x65.gif" /></a></li><li><a href="http://www.myspace.com/guide/whatsnew?pm_cmp=ed_spl_5top_splash"><img alt="Around Here" src="http://cms.myspacecdn.com/cms/x/12/21/00-AroundHere-318x25.png" /></a></li><li><a href="https://new.myspace.com/discover/trending/2013/03/14/day-three-charli-xcx-packs-light"><img alt="24-Hour Party People: Charli XCX Packs Light" src="http://cms.myspacecdn.com/cms/x/13/12/032013-CharliXCX-290x160.jpg" /></a></li><li><a href="https://new.myspace.com/discover/trending/2013/03/15/aap-fergs-five-tips-for-girls-who-go-to-sxsw"><img alt="24-Hour Party People: A$AP Ferg&#39;s Tips For Girls" src="http://cms.myspacecdn.com/cms/x/13/12/032013-ASAPferg-290x160.jpg" /></a></li><li><a href="https://new.myspace.com/discover/trending/2013/03/13/24-hour-party-people-day-two-breakbot-needs-a-disco-nap"><img alt="24-Hour Party People Breakbot: Needs a Disco Nap" src="http://cms.myspacecdn.com/cms/x/13/12/032013-Breakbot-290x160.jpg" /></a></li><li><a href="https://new.myspace.com/discover/trending/2013/03/13/day-two-watch-the-duck-gets-wild"><img alt="24-Hour Party People: Watch the Duck Gets Wild" src="http://cms.myspacecdn.com/cms/x/13/12/032013-Duck-290x160.jpg" /></a></li><li><a href="https://new.myspace.com/discover/trending/2013/03/14/day-three-maximum-hedrum-is-tripping"><img alt="24-Hour Party People: Maximum Hedrum is Tripping" src="http://cms.myspacecdn.com/cms/x/13/12/032013-Hedrum-290x160.jpg" /></a></li><li><a href="http://www.myspace.com/music/player"><img alt="Myspace Radio: See All" src="http://cms.myspacecdn.com/cms/x/12/10/00-seeall.png" /></a></li>
+		</ul>
+	</div></li>
+</ul></section></div>
+</article>
+<article class="module module6 columnModule1 even ContentLinksModule" id="module-5" data-mt="564355113" data-area="Common">
+<div class="wrapper">
+<section class="content moduleBody">
+<div class="linksColumn">
+	<h5>
+		<a href="http://www.myspace.com/music/">More in Music</a>
+	</h5><ul>
+		<li><a href="http://www.myspace.com/music/videos">Music Videos</a></li><li><a href="http://www.myspace.com/music/songs/all-genres/most-popular">Charts</a></li><li><a href="http://www.myspace.com/music/albums/all-genres/new-releases">New Albums</a></li><li><a href="http://www.myspace.com/music/songs/all-genres/new-releases">New Singles</a></li><li><a href="http://www.myspace.com/music/blog">Music News</a></li>
+	</ul>
+</div><div class="linksColumn">
+	<h5>
+		<a href="http://www.myspace.com/whats-hot/category/breaking-news?pm_cmp=ed_spl_7mcu_lst">More in What's Hot</a>
+	</h5><ul>
+		<li><a href="http://new.myspace.com?pm_cmp=ed_spl_7mcu_lst01">Sign Up For New Myspace Beta</a></li><li><a href="http://www.myspace.com/whats-hot/2012/11/9/future-hits-kelly-clarkson-maroon-5-and-fun-are-ready-to-surge-again?pm_cmp=ed_spl_7mcu_lst01">Future Hits: Kelly Clarkson, Maroon 5 & more</a></li><li><a href="http://www.myspace.com/whats-hot/2012/11/9/upcoming-albums-j-cole-bad-religion-johnny-marr-and-more?pm_cmp=ed_spl_7mcu_lst01">J. Cole's New Album</a></li><li><a href="http://www.myspace.com/whats-hot/2012/11/9/check-out-a-preview-of-solange-knowles-new-ep?pm_cmp=ed_spl_7mcu_lst01">Solange Knowles Teases New EP</a></li><li><a href="http://www.myspace.com/whats-hot/2012/11/9/leaks-of-the-week-hot-singles-40?pm_cmp=ed_spl_7mcu_lst01">Hottest New Singles</a></li>
+	</ul>
+</div><div class="linksColumn">
+	<h5>
+		<a href="http://www.myspace.com/whats-hot?pm_cmp=ed_spl_8mtp_lst">Entertainment</a>
+	</h5><ul>
+		<li><a href="http://www.myspace.com/whats-hot/2012/11/9/top-10-viral-videos-kung-fu-baby-mitt-romney-sings-his-concession-90s-rap-song-and-more?pm_cmp=ed_spl_7mcu_lst01">Kung Fu Baby Video</a></li><li><a href="http://www.myspace.com/whats-hot/2012/11/9/movie-news-product-placement-crashes-star-wars-vii-still-sounds-silly-even-without-big-bird-james-bond-is-a-man-whore-and-spider-man-still-kicks-ass?pm_cmp=ed_spl_7mcu_lst01">James Bond Is A Man-Whore</a></li><li><a href="http://www.myspace.com/whats-hot/2012/11/7/twilight-breaking-dawn-part-2-exclusive-k-stew-arm-wrestles-r-patz-steals-underwear-from-the-set-and-t-laut-loves-honey-boo-boo?pm_cmp=ed_spl_7mcu_lst01">See Kristen Stewart Arm Wrestle</a></li><li><a href="http://www.myspace.com/whats-hot/2012/11/9/this-weeks-best-trailers-and-clips-world-war-z-side-effects-escape-from-planet-earthwarm-bodies-despicable-me-2-quartet-and-jurassic-park-3d?pm_cmp=ed_spl_7mcu_lst01">Jurassic Park in 3D</a></li><li><a href="http://www.myspace.com/whats-hot/2012/11/9/posters-and-pics-of-the-week-the-hangover-part-3-all-you-need-is-kill-gangster-squad-and-more?pm_cmp=ed_spl_7mcu_lst01">The Hangover Part 3 Pics</a></li>
+	</ul>
+</div></section></div>
+</article>
+<section class="columnEnd"></section></section><section class="rowEnd"></section></section></div>
+	
+
+			</article>
+			<div class="footershim">
+			</div>
+		</div>	
+		<div id="footerleaderboard">
+				
+		</div>	
+	</div>
+	
+
+<form action="https://www.myspace.com/auth/login" method="post" class="signin popupForm shownone"  id="loginPopup">
+   <fieldset>
+		
+		<input type="hidden" name="formLocation" value="popupForm" />
+        <input type="hidden" name="hash" value="MIGcBgkrBgEEAYI3WAOggY4wgYsGCisGAQQBgjdYAwGgfTB7AgMCAAECAmYDAgIAwAQI0YbXjX86BWcEEJPx2OqM7BnFD3s%2bKYxMYGAEUAo25u59faDHtuHrwPeAG4iCJA1I88O5wVkXOVnQhzbL5wPonSx0BJu88nsLIKgi%2bWR9iHTCJXYSsh60t7Zz56CXxpqYxaEBPFTNx7PsQIcR" />
+		<input type="hidden" name="NextPage" value="" />
+		<input type="hidden" name="js" value="-1" />
+		<input type="hidden" name="fbtoken" value="" />
+		
+            <h2>Login</h2>
+        
+
+        <p class="email">
+			<label for="emailPopup">Email</label>
+			
+            <input type="text" id="emailPopup" class="emailInput" name="Email" value="" tabindex="1" />
+			
+		</p>
+
+        <p class="password">
+			<label for="passwordPopup">Password</label>
+            
+            <input type="password" id="passwordPopup" class="passwordInput" name="Password" tabindex="2" />
+			
+		</p>
+        <p class="check">
+            <input type="checkbox" id="rememberPopup" checked="checked" class="rememberUser" name="Remember" tabindex="3" />
+            <label for="rememberPopup">Keep me logged in</label> 
+		</p>
+		<div class="captchaBlock"></div>
+        <p class="submit right">
+			
+            <a href="https://www.myspace.com/auth/resetpassword/" class="forgotPassword">Forgot password?</a>
+			
+            <button name="loginBtn" type="submit" class="glue primary" tabindex="5">Login</button></p>
+        
+        <p class="right needAccount">Need an account? <a href="https://www.myspace.com/signup">Sign up</a>
+            </p>
+       
+		
+  </fieldset>
+</form>
+
+<iframe id="loginIframe" name="loginIframe"></iframe>
+
+	
+
+<footer id="pageFooter">
+  <ul class="first">
+      <li class=" checkerLightBG">
+            <h3>
+                    Around Myspace
+            </h3>
+      </li>
+                  <li>
+	          <a href="http://www.myspace.com/music?pm_cmp=ed_footer" onclick="MySpace.CMS.track('f6279230-0fb9-4c27-a88d-549105cb6202','138876')">Music</a>
+            </li>
+                   <li>
+	          <a href="http://www.myspace.com/guide/music-player?pm_cmp=ed_footer" onclick="MySpace.CMS.track('f6279230-0fb9-4c27-a88d-549105cb6202','138877')">New Music Player</a>
+            </li>
+                   <li>
+	          <a href="http://www.myspace.com/guide/radio?pm_cmp=ed_footer" onclick="MySpace.CMS.track('f6279230-0fb9-4c27-a88d-549105cb6202','138878')">Radio</a>
+            </li>
+                   <li>
+	          <a href="http://www.myspace.com/music/charts/artists?pm_cmp=ed_footer" onclick="MySpace.CMS.track('f6279230-0fb9-4c27-a88d-549105cb6202','138879')">Artists</a>
+            </li>
+                   <li>
+	          <a href="http://www.myspace.com/music/charts/albums?pm_cmp=ed_footer" onclick="MySpace.CMS.track('f6279230-0fb9-4c27-a88d-549105cb6202','138880')">Albums</a>
+            </li>
+                   <li>
+	          <a href="http://www.myspace.com/music/charts/songs?pm_cmp=ed_footer" onclick="MySpace.CMS.track('f6279230-0fb9-4c27-a88d-549105cb6202','138881')">Songs</a>
+            </li>
+                   <li>
+	          <a href="http://www.myspace.com/topplaylists?pm_cmp=ed_footer" onclick="MySpace.CMS.track('f6279230-0fb9-4c27-a88d-549105cb6202','138882')">Playlists</a>
+            </li>
+       </ul>
+ <ul>
+      <li class=" checkerLightBG">
+            <h3>
+                    Also on Myspace
+            </h3>
+      </li>
+                  <li>
+	          <a href="http://www.myspace.com/whats-hot/category/movies?pm_cmp=ed_footer" onclick="MySpace.CMS.track('f6279230-0fb9-4c27-a88d-549105cb6202','138883')">Movies</a>
+            </li>
+                   <li>
+	          <a href="http://www.myspace.com/whats-hot/category/celebrities-entertainment?pm_cmp=ed_footer" onclick="MySpace.CMS.track('f6279230-0fb9-4c27-a88d-549105cb6202','138884')">Celebrity</a>
+            </li>
+                   <li>
+	          <a href="http://www.myspace.com/whats-hot/category/television?pm_cmp=ed_footer" onclick="MySpace.CMS.track('f6279230-0fb9-4c27-a88d-549105cb6202','138885')">Television</a>
+            </li>
+                   <li>
+	          <a href="http://www.myspace.com/events?pm_cmp=ed_footer" onclick="MySpace.CMS.track('f6279230-0fb9-4c27-a88d-549105cb6202','138886')">Events</a>
+            </li>
+                   <li>
+	          <a href="http://www.myspace.com/themes?pm_cmp=ed_footer" onclick="MySpace.CMS.track('f6279230-0fb9-4c27-a88d-549105cb6202','138887')">Themes</a>
+            </li>
+                   <li>
+	          <a href="http://www.myspace.com/guide/im?pm_cmp=ed_footer" onclick="MySpace.CMS.track('f6279230-0fb9-4c27-a88d-549105cb6202','138888')">IM</a>
+            </li>
+       </ul>
+ <ul>
+      <li class=" checkerLightBG">
+            <h3>
+                    What's Trending
+            </h3>
+      </li>
+                  <li>
+	          <a href="http://www.myspace.com/whats-hot/2013/1/10/its-happening?pm_cmp=ed_footer" onclick="MySpace.CMS.track('f6279230-0fb9-4c27-a88d-549105cb6202','138889')">Timberlake &quot;I'm Ready&quot;</a>
+            </li>
+                   <li>
+	          <a href="http://www.myspace.com/whats-hot/2013/1/13/listen-to-justin-timberlakes-new-track-suit-and-tie-ft-jay-z-produced-by-timbaland-exclusively-on-the-new-myspace?pm_cmp=ed_footer" onclick="MySpace.CMS.track('f6279230-0fb9-4c27-a88d-549105cb6202','138890')">Justin Timberlake New Song</a>
+            </li>
+                   <li>
+	          <a href="http://www.myspace.com/whats-hot/2013/1/13/listen-to-justin-timberlakes-new-track-suit-and-tie-ft-jay-z-produced-by-timbaland-exclusively-on-the-new-myspace?pm_cmp=ed_footer" onclick="MySpace.CMS.track('f6279230-0fb9-4c27-a88d-549105cb6202','138890')">Justin Timberlake New Song 2013</a>
+            </li>
+                   <li>
+	          <a href="http://www.myspace.com/whats-hot/2013/1/13/listen-to-justin-timberlakes-new-track-suit-and-tie-ft-jay-z-produced-by-timbaland-exclusively-on-the-new-myspace?pm_cmp=ed_footer" onclick="MySpace.CMS.track('f6279230-0fb9-4c27-a88d-549105cb6202','138890')">Justin Timberlake Suit &amp; Tie</a>
+            </li>
+                   <li>
+	          <a href="http://www.myspace.com/whats-hot/2013/1/13/listen-to-justin-timberlakes-new-track-suit-and-tie-ft-jay-z-produced-by-timbaland-exclusively-on-the-new-myspace?pm_cmp=ed_footer" onclick="MySpace.CMS.track('f6279230-0fb9-4c27-a88d-549105cb6202','138890')">Justin Timberlake Jay-Z New Song</a>
+            </li>
+                   <li>
+	          <a href="http://www.myspace.com/whats-hot/2013/1/13/listen-to-justin-timberlakes-new-track-suit-and-tie-ft-jay-z-produced-by-timbaland-exclusively-on-the-new-myspace?pm_cmp=ed_footer" onclick="MySpace.CMS.track('f6279230-0fb9-4c27-a88d-549105cb6202','138890')">JT and Jay-Z Suit &amp; Tie</a>
+            </li>
+                   <li>
+	          <a href="http://www.myspace.com/whats-hot/2013/1/13/listen-to-justin-timberlakes-new-track-suit-and-tie-ft-jay-z-produced-by-timbaland-exclusively-on-the-new-myspace?pm_cmp=ed_footer" onclick="MySpace.CMS.track('f6279230-0fb9-4c27-a88d-549105cb6202','138890')">Justin Timberlake &amp; Timbaland New Song</a>
+            </li>
+                   <li>
+	          <a href="http://www.myspace.com/whats-hot/2013/1/13/listen-to-justin-timberlakes-new-track-suit-and-tie-ft-jay-z-produced-by-timbaland-exclusively-on-the-new-myspace?pm_cmp=ed_footer" onclick="MySpace.CMS.track('f6279230-0fb9-4c27-a88d-549105cb6202','138890')">The 20/20 Experience</a>
+            </li>
+       </ul>
+ <ul>
+      <li class=" checkerLightBG">
+            <h3>
+                    What's Trending
+            </h3>
+      </li>
+                  <li>
+	          <a href="http://www.myspace.com/whats-hot/2013/1/13/listen-to-justin-timberlakes-new-track-suit-and-tie-ft-jay-z-produced-by-timbaland-exclusively-on-the-new-myspace?pm_cmp=ed_footer" onclick="MySpace.CMS.track('f6279230-0fb9-4c27-a88d-549105cb6202','138890')">Justin Timberlake New Music</a>
+            </li>
+                   <li>
+	          <a href="http://www.myspace.com/whats-hot/2013/1/13/listen-to-justin-timberlakes-new-track-suit-and-tie-ft-jay-z-produced-by-timbaland-exclusively-on-the-new-myspace?pm_cmp=ed_footer" onclick="MySpace.CMS.track('f6279230-0fb9-4c27-a88d-549105cb6202','138890')">Justin Timberlake 2013 Single</a>
+            </li>
+                   <li>
+	          <a href="http://www.myspace.com/whats-hot/2013/1/13/listen-to-justin-timberlakes-new-track-suit-and-tie-ft-jay-z-produced-by-timbaland-exclusively-on-the-new-myspace?pm_cmp=ed_footer" onclick="MySpace.CMS.track('f6279230-0fb9-4c27-a88d-549105cb6202','138890')">Justin Timberlake New Track</a>
+            </li>
+                   <li>
+	          <a href="http://www.myspace.com/whats-hot/2013/1/13/listen-to-justin-timberlakes-new-track-suit-and-tie-ft-jay-z-produced-by-timbaland-exclusively-on-the-new-myspace?pm_cmp=ed_footer" onclick="MySpace.CMS.track('f6279230-0fb9-4c27-a88d-549105cb6202','138890')">Jay-Z Suit and Tie</a>
+            </li>
+                   <li>
+	          <a href="http://www.myspace.com/whats-hot/2013/1/13/listen-to-justin-timberlakes-new-track-suit-and-tie-ft-jay-z-produced-by-timbaland-exclusively-on-the-new-myspace?pm_cmp=ed_footer" onclick="MySpace.CMS.track('f6279230-0fb9-4c27-a88d-549105cb6202','138890')">Stream JT's New Song</a>
+            </li>
+                   <li>
+	          <a href="http://www.myspace.com/whats-hot/2013/1/13/listen-to-justin-timberlakes-new-track-suit-and-tie-ft-jay-z-produced-by-timbaland-exclusively-on-the-new-myspace?pm_cmp=ed_footer" onclick="MySpace.CMS.track('f6279230-0fb9-4c27-a88d-549105cb6202','138890')">Stream Timberlake's Suit &amp; Tie</a>
+            </li>
+                   <li>
+	          <a href="http://www.myspace.com/whats-hot/2013/1/13/listen-to-justin-timberlakes-new-track-suit-and-tie-ft-jay-z-produced-by-timbaland-exclusively-on-the-new-myspace?pm_cmp=ed_footer" onclick="MySpace.CMS.track('f6279230-0fb9-4c27-a88d-549105cb6202','138890')">JT, Jay-Z, Timbaland, Shawn Carter, J-Roc</a>
+            </li>
+                   <li>
+	          <a href="http://www.myspace.com/whats-hot/2013/1/13/listen-to-justin-timberlakes-new-track-suit-and-tie-ft-jay-z-produced-by-timbaland-exclusively-on-the-new-myspace?pm_cmp=ed_footer" onclick="MySpace.CMS.track('f6279230-0fb9-4c27-a88d-549105cb6202','138890')">Exclusive Justin Timberlake Suit &amp; Tie</a>
+            </li>
+       </ul>
+ <ul>
+      <li class=" checkerLightBG">
+            <h3>
+                    Join Myspace
+            </h3>
+      </li>
+                  <li>
+	          <a href="https://new.myspace.com?pm_cmp=ed_footer" target="_self" onclick="MySpace.CMS.track('f6279230-0fb9-4c27-a88d-549105cb6202','138891')">New Myspace</a>
+            </li>
+                   <li>
+	          <a href="https://www.myspace.com/signup?pm_cmp=ed_footer" target="_self" onclick="MySpace.CMS.track('f6279230-0fb9-4c27-a88d-549105cb6202','138892')">Sign up</a>
+            </li>
+                   <li>
+	          <a href="http://www.myspace.com/Help/AboutUs?pm_cmp=ed_footer" target="_self" onclick="MySpace.CMS.track('f6279230-0fb9-4c27-a88d-549105cb6202','138893')">About us</a>
+            </li>
+                   <li>
+	          <a href="http://www.myspace.com/Help/Terms?pm_cmp=ed_footer" target="_self" onclick="MySpace.CMS.track('f6279230-0fb9-4c27-a88d-549105cb6202','138894')">Terms</a>
+            </li>
+                   <li>
+	          <a href="http://www.myspace.com/Help/Privacy?pm_cmp=ed_footer" target="_self" onclick="MySpace.CMS.track('f6279230-0fb9-4c27-a88d-549105cb6202','138895')">Privacy Policy</a>
+            </li>
+       </ul> <ul class="last">
+      <li class=" checkerLightBG">
+            <h3>
+                    Get Help
+            </h3>
+      </li>
+                  <li>
+	          <a href="http://www.myspace.com/help?pm_cmp=ed_footer" onclick="MySpace.CMS.track('f6279230-0fb9-4c27-a88d-549105cb6202','138896')">Help & FAQs</a>
+            </li>
+                   <li>
+	          <a href="http://www.myspace.com/Help/Privacy?pm_cmp=ed_footer" onclick="MySpace.CMS.track('f6279230-0fb9-4c27-a88d-549105cb6202','138895')">Privacy Policy</a>
+            </li>
+                   <li>
+	          <a href="http://www.myspace.com/help/safety?pm_cmp=ed_footer" onclick="MySpace.CMS.track('f6279230-0fb9-4c27-a88d-549105cb6202','138897')">Safety Tips</a>
+            </li>
+                   <li>
+	          <a href="http://www.myspace.com/guide/sync?pm_cmp=ed_footer" onclick="MySpace.CMS.track('f6279230-0fb9-4c27-a88d-549105cb6202','138898')">Sync</a>
+            </li>
+                   <li>
+	          <a href="http://www.myspace.com/help?p=/answers/detail/a_id/1607" onclick="MySpace.CMS.track('f6279230-0fb9-4c27-a88d-549105cb6202','138899')">Facebook Connect</a>
+            </li>
+                   <li>
+	          <a href="http://developer.myspace.com/?pm_cmp=ed_footer" onclick="MySpace.CMS.track('f6279230-0fb9-4c27-a88d-549105cb6202','138900')">Developers</a>
+            </li>
+                   <li>
+	          <a href="http://specificmedia.com/advertising/addressable-advertising?pm_cmp=ed_footer" onclick="MySpace.CMS.track('f6279230-0fb9-4c27-a88d-549105cb6202','138901')">Advertisers</a>
+            </li>
+                   <li>
+	          <a href="http://www.myspace.com/pressroom" onclick="MySpace.CMS.track('f6279230-0fb9-4c27-a88d-549105cb6202','138902')">Press Room</a>
+            </li>
+       </ul>
+
+  <div class="moduleFooter checkerLightBG">
+     Copyright &copy; 2003-2012 Myspace LLC.
+            All Rights Reserved
+			<span class="moduleFooterRight"><a class="gapReportAbuse" href="http://www.myspace.com/help/reportabuse?AbuseType=Profile&reportedUserId=0&ProfileContentID=0&Httpreferrer=http%3A%2F%2Fwww.myspace.com%2FModules%2FSplash%2FPages%2FIndex.aspx%2F0">Report Abuse</a>
+			<strong>&nbsp;|&nbsp;Change Country:</strong>
+			<a href="http://www.myspace.com/international">  United States (English) </a>
+			</span>
+		</div>
+</footer>
+
+	<footer id="siteFooter"><ul class="footertools group">
+
+<li class="imToast">
+    <ul style="">
+    
+     
+    </ul>
+</li><li id="privacyTray" class="privacyTray" style="float:right; visibility:hidden; width:0;"></li></ul></footer>
+
+	
+<script>
+//<![CDATA[
+_start.BeforeJS=+new Date;
+function namespace(parent,name,extender){if(typeof parent==='string'){var parts=parent.split('.');extender=name;parent=window;for(var i=0;i<parts.length;++i)parent=namespace.ns(parent,parts[i]);if(extender)for(var k in extender)parent[k]=extender[k];return parent}return namespace.ns(parent,name,extender)}
+namespace.ns=function(p,n,x){var a=p[n];if(!a){var tn=p.__typeName;tn=(tn?tn+'.':'')+n;eval('p[n]=a=function '+tn.replace(/[\W]/g,'$')+'(name,extender){return (typeof name!=="string")?namespace.ns(p,n,name):namespace.ns(a,name,extender);}');
+a.__namespace=a.__typeName=tn;a.getName=function(){return tn}}if(x)for(var k in x)a[k]=x[k];var w=namespace.watch,l=w.length,i=0;if(tn && l)for(i=0;i<l;i++)w[i](a);return a};
+namespace.watch = [];
+namespace('MySpace', {StaticContentBase:'https://x.myspacecdn.com'})('UI');
+namespace('MySpaceRes',{"Global":{"AddMessage":"Add a message","NeededRequestConfirmation":"{0} will have to confirm your request.","ORBig":"OR","PrivacyEmailAddress":"\"What\u0027s my email address?\"","PrivacyLastName":"\"What\u0027s my last name?\"","PrivacyMessage":"Verify how well you know {0} to send this request.","RequestSentConfirmation":"Once confirmed, you and {0} will be friends.","RequestSentTitle":"Request Sent!","SendRequestTitle":"Send a friend request to {0}","PendingRequestExists":"You already have a pending friend request for {0}.","ErrorMessageOnFaliure":"We’re sorry, an error occurred while processing your friend request.  Please try again.","CannotAddSelf":"You cannot friend yourself.","IncorrectInputs":"The email or last name you entered is incorrect. Please re-enter and try again.","RequiredPrivacyInputs":"You must enter an email address or last name.","RequiredEmailAddress":"You must enter an email address.","InvalidVerificationCode":"Security code does not match. Please try again.","PeopleYouMayKnow":"People You May Know","ShowMore":"Show more","AddFriend":"+ Friend","MaxEmailLimit":"Sorry, that email address is too long.  Try again!","MaxLastNameLimit":"Sorry, that last name is too long.  Try again!","MaxMessageCharLimit":"Easy there!  Your message exceeds our max character limits.","Friend":"Friend","PleaseLogin":"Please login or sign up","NeedMyspaceAccount":"You need a Myspace account to complete this action.","LoginToMyspace":"Login to Myspace","SignupFree":"Sign up free","Add":"Add","Message":"Message","BlockUser":"Block User","BlockUser_Description":"Are you sure you want to block this user?","RemoveFriend":"Remove Friend","RemoveFriend_Description":"Are you sure you want to remove this friend?","ErrorMessageRequest":"We’re sorry, an error occurred while processing your request.  Please try again.","FriendToChatDescription":"You need to be friends with {0} in order to chat.","AddtoNewPlaylist":"Add to New Playlist","GettingPlaylists":"Getting playlists","SavedtoPlaylist":"Saved to your playlist","YourPlaylistCreated":"Your playlist is created","InvalidEmailOrPassword":"Invalid email and/or password. Please try again","ForYourSecurity":"For your security, please fill in the info below"},"Comment":{"DeleteThisComment":"Delete this comment","RemoveThisComment":"Remove this comment and all replies from the activity stream and the original page.","Delete":"Delete","MarkAsSpamLowerS":"Mark as spam","HelpUsCleanTheHouse":"Help us clean the house by marking spam and \u003ca target=\u0027_blank\u0027 href=\u0027{0}\u0027\u003ereporting abuse\u003c/a\u003e when you spot something offensive.","BlockUser":"Block user","BlockThisUserQ":"Block this user?","BlockThisPersonFromContacting":"Block this person from contacting you (you can \u003ca target=\u0027_blank\u0027 href=\u0027{0}\u0027\u003eunblock\u003c/a\u003e later).","HelpUsCleanTheHouseByMarkAsSpam":"Help us clean the house by marking spam when you spot something offensive.","Post":"Post","JustNow":"just now","PostACommentEllipsis":"Post a comment...","PostAReplyEllipsis":"Post a reply...","Reply":"Reply","ThisCommentWillPostToXsProfile":"This comment will post to {0}\u0027s profile","Commentback":"Comment Back"},"SiteSearch":{"People":"People","Music":"Music","Videos":"Videos","Photos":"Photos","Games":"Games","Events":"Events","MySpace":"Myspace","Web":"Web","In":"in","Suggestions":"Suggestions:","SearchFor":"Search for","AllMySpace":"All Myspace","GlobalSearchPeople":"Search People","GlobalSearchMusic":"Search Music","GlobalSearchVideos":"Search Videos","GlobalSearchWeb":"Search Web","GlobalSearchPhotos":"Search Photos","GlobalSearchGames":"Search Games","SearchMySpace":"Search Myspace"},"Common":{"Global_Add_Friend_Tip":"Add user to friends","ConfirmEmailAddress":"Confirm Email Address","ConfirmEmailAddressText":"To complete this action, you need to confirm your email address. Click on the confirmation link in the email we sent to : ","ConfirmationSent":"Confirmation Sent","ResendEmail":"Resend Email","Ok":"Ok","Yes":"Yes","No":"No","Attention":"Attention","PleaseWait":"Please wait...","PageXofY":"Page {0} of {1}"},"UserJoin":{"GoToMail":"Go to {0} Mail"},"SplashPage":{"AccountLocked1":"Click Here","AccountLocked2":"This account has been locked out for 15 minutes due to excessive failed login attempts. Please try again or","AccountLocked3":"to enter a different e-mail and password.","LoadingAltText":"loading..."},"Header":{"Cancel":"Cancel / Cancelación","Continue":"Continue / Continuar"},"ProfileDisplayV3":{"ChangePhoto":"Change Photo"},"RichTextEditorGeneral":{"AddPhoto":"Add a Photo","AddVideo":"Add a Video"},"Photos":{"ChooseAlbumLabel":"Choose Album","PhotoUpdatedSuccessfullyNotificationMsg":"Your photo was updated successfully!","ProfilePicSuccessfullyCreatedMsg":"Nice, your new profile photo has been saved.","Crop":"Crop","MakeProfilePicture":"Make Profile Picture","ServiceNotAvailableMsg":"Service is inaccessible. Try again later"},"VideosPage":{"ChooseVideo":"Choose a Video","MyVideos":"My Videos","MyUploads":"My Uploads","MySubscriptions":"My Subscriptions","MyFavorites":"My Favorites"},"MySpaceTV":{"Futura_VideoCharts_Title":"Video Charts","AV_ChartAllTime":"All Time","AV_ChartMonth":"Month","AV_ChartWeek":"Week","AV_ChartDay":"Day","AV_MyVideosUploads":"Uploads","AV_MyVideosFavorites":"Favorites","AV_MyVideosSubscriptions":"Subscriptions","AV_PlayerBy":"By"},"Signup":{"UploadPhoto":"Upload a photo","TakePhoto":"Take a photo","ChooseImageDescription":"You can upload an image or use a webcam."},"HomeDisplayV3":{"SuperPost_UploadPhotoError":"There was a problem uploading your photo.","SuperPost_PhotoFileType":"Your file was not uploaded. Please select an image file with one of the following formats: .jpg, .gif, .bmp, .tiff, .png.","SuperPost_PhotoFileSize":"Your photo is too large to upload. Please select a file under 5 MB."},"UploadResource":{"CameraActivity":"Looking for camera activity.","Cancel":"Cancel","Capture":"Capture","ChooseDevice":"Choose the device that allows you to see a picture in this window.","Error":" Error","Keep":"Keep","MsgCamActivity":"Looking for camera activity.","MsgNoCamFound":"Sorry, no camera was found. In order to take a photo, you will need to install a camera.","Msg_NoCam":"Please make sure that your camera is active and not in use by any other application.","OK":"OK","Photo":" {0} Photo","Retake":"Retake","RetakePic":"Retake the photo","SaveFlashSettings":"Click \u0027Allow\u0027 and \u0027Close\u0027 to save your settings.","TakePicture":"Take Picture","UploadError1":" Error uploading file","UploadError2":" There was an error uploading","Uploading":" Uploading","UploadPic":"Upload your photo to Myspace","UploadToMySpace":"Upload your photo to Myspace"}});
+MySpaceClientContext = MySpace.ClientContext = {"UserId":-1,"DisplayFriendId":0,"IsLoggedIn":false,"FunctionalContext":"Splash","UserType":1,"Email":""};
+MySpaceClientContext.PreferredCulture = 'en-US';
+MySpace.ClientIntMaintenanceConfigs = {"headersearchautocompletev2":{"enabled":true,"excPrefCltr":["ja-JP"],"excIPCltr":["ja-JP"]}};
+MySpace.ClientMaintenanceConfigs = {"asyncphotobrowsecaching":0,"msplinksconvertall":0,"photocommentsajax":0,"inf_ind_newvideocomment":0,"musicjv_amazoninplace":0,"enablevideocategorydropdown":0,"applications_userapppreferences":0,"inf_ind_unreadim":0,"webimtestclient":0,"applications_showafterloaduhp":0,"applications_showafterloadprofiles":0,"applications_enablev2settingspopup":0,"musicjv_allmyplaylists":0,"inf_ind_newclassified":0,"webimclientrichtexteditor":0,"mdpcontaineruseopencanvas":0,"inf_ind_newautotag":0,"applications_enableopenidpopuphandling":0,"applications_removeonappprofile":0,"friendselectorinstatusmooddialog":0,"musicjv_debug":0,"photoquickpostmessaging":0,"mdp_enable_homeappnavdragdrop":0,"musicjv_stoprefresh_medrec":0,"mystuffautos":0,"mystuffreportabusepost":0,"mystuffuploadphotos":0,"dwbeaconclientv2":0,"dwbeaconpymk":0,"mdp_rpcsetauthtoken":0,"eventrouterrelayclient":0,"eventrouterdatarelayclient":0,"signup_addrecommendationv2_deafultselectall":0,"appnotification_useosmltemplatename":0,"webimofflineindicatorsupport":0,"musicjv_mymusicv2_newscroll":0,"signup_strengthmeter":0,"dwbeaconphotossites":0,"testvalidationofkey":0,"core_indicatorcounters":0,"topicsfriendstabfollowerssimple":0,"reshareallactivities":0,"stream_threecolumn":0,"photos_fblikes":0,"headersearchtopicautocomplete":0,"newmailclientside":0,"facebookmusic":0};
+(function(w,n,p){function a(o,n,v){o[n]?p.apply(o[n],v):o[n]=v;}n('MySpace.LoginPrompt',{"LoginUrl":"http://www.myspace.com/redirector","SignupUrl":"https://www.myspace.com/signup"});n('MySpace.MediaSelector.JSFiles',{"Cropper":"https://x.myspacecdn.com/modules/common/static/js/jquery/cropperbundle_e6ltu0dh.js","MediaSelector":"https://x.myspacecdn.com/modules/common/static/js/jquery/mediaselectordialogbundle_umz9xci9.js"});n('MySpace.UI.Common.photoUploadConfig',{"uploadUrl":"http://upload.myspace.com/modules/upload/services/upload.ashx?upload_source=WebStream&output_type=HTTP","photoUploaderUrl":"http://lads.myspace.com/superpost/MediaUploader_sp.swf","photoUploadHash":"MIGcBgkrBgEEAYI3WAOggY4wgYsGCisGAQQBgjdYAwGgfTB7AgMCAAECAmYDAgIAwAQIqAN6G34hmDUEEF6CV6bywHABdXuz8MyHupgEUIFmJduxdNvvytmGJ%2fhK%2bHkJqgFJOW0PfR6c7j%2fL8Ta7vPXYwI5bVa6z9fL8zETbUZwgRsRTzURugAavxR1DidY%2fmb4Gym6NMjLPnmngDFZQ","culture":"en-US","unixTime":1370882653,"uploadToken":"DOIlXoSjhpcuK%2fCY%2fyeexUs3RLkPvqLX8keCxqj56YzyYplG%2flMak4tb8QIef9mMfM9vXIXbQZUB4ybrrZaBBA%3d%3d","moduleHash":"MIGcBgkrBgEEAYI3WAOggY4wgYsGCisGAQQBgjdYAwGgfTB7AgMCAAECAmYDAgIAwAQIE7ZiD8VHu%2boEEAvosntwrQKdg%2beaXO9%2bF9UEUFAsxsmd5kQcFyLrd7Avi2H4EvK2gVsmooDViYu%2fhzVt0UZaWenHxHCo9GGR2u9UygcwsrK%2bQCFIRtXGwgibEaWpnOv2UHH0GmSv4E0EdmUQ"});n('MySpace.UI.DeferredScript',{"ValidatorJSPath":"https://x.myspacecdn.com/modules/common/static/js/jquery/validations_xtrdxzyi.js"});n('MySpace.UI.Pages').Area="Splash";n('MySpace.UI.Pages').HashMashter="MIGcBgkrBgEEAYI3WAOggY4wgYsGCisGAQQBgjdYAwGgfTB7AgMCAAECAmYDAgIAwAQI4ybe8Fno4esEEIpvRwc%2bKZ10RnqF4PJelCQEUKz%2fYyATvVDOB%2fMUIZAYckCIHimxU4lqeem3NLxQwwFTaBAi1ukMi%2bnlUkwgNPjq8cgNHf9MG6RmJdqHkK8%2fJhf8h5bLJrQCJjM8qwNItoSN";n('MySpace.UI.Splash',{"SignUpURL":"/signup"});})(window,namespace,[].push);
+//]]>
+</script>
+
+	
+	
+<script type="text/javascript">
+	namespace('MySpace.Ads', {SMParams:"msd=2:2:Yp7xWhhHNlCtvyE08WDQLzn6pPDZZYXGvc0xbTkIoM4&rnd=977064963"});
+
+</script><script type="text/javascript" src="https://x.myspacecdn.com/modules/common/static/js/jquery/msglobal_xkfghjxa.js"></script>
+<script type="text/javascript" src="https://x.myspacecdn.com/modules/common/static/js/jquery/onsitemusic_7mmb9lrg.js"></script>
+
+<script type="text/javascript">
+	sm_wrapper({ id: "tkn_medrec", sub: "afe2", l: "22032", sz: "300x250", nwk: 3, delay: false });
+</script>
+	<script type="text/javascript" src="https://x.myspacecdn.com/modules/splash/static/js/splashv2bundle_sljf2inm.js"></script>
+
+<script type="text/javascript">
+	var pushData = {c1: "2", c2: "4000002" };
+
+var _comscore = _comscore || [];
+
+function comscoreRequest() {
+	_comscore.push (pushData);
+	var s = document.getElementById("comscoreTag");
+
+	if (s) s.parentNode.removeChild(s);
+	var el = document.getElementsByTagName("script")[0];
+	s = document.createElement("script"), 
+	s.async = true;
+	s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+	s.setAttribute("id", "comscoreTag");
+	el.parentNode.insertBefore(s, el);
+}
+
+comscoreRequest();
+</script>
+<script type="text/javascript">
+	MySpace.BeaconData={"dsid":"2","dsv":"1","rd":"","rqs":"","refpg":"","rpf":"","d":"www.myspace.com","qs":"","pf":"Splash","fa":"","pgnm":"/","cip":"1963041703","pc":"en-US","pid":"5775331687425021518","pidf":"1","ABtd":"0","t":"1370882653879","ct":"1370882653879","ci":"Hanoi","st":"44","co":"VN","dmac":"0","uff":"0","uatv":"ua=MyOpera-Backup/1.0","sip":"177238139","uid":"-2","pggd":"c433e3e2-9435-4ea1-9ef2-e831e25fe550","prid":"-1","ili":"0","at":"-1","cfv":"0:0:0","cef":"0","sliu":"0","pref":"0","kvp":"bt=0&pidv=2&sn=las1mwebnet0113&page=%2f&ff=t&restqs=&"};
+MySpace.BeaconAddress="https://b.myspace.com/~myspace/beacon/b.ashx?";
+MySpace.Beacon.sn="las1mwebnet0113";
+
+MySpace.Beacon.SendPageBeacon();
+
+</script>
+	
+				<noscript>
+					<img src="http://b.scorecardresearch.com/p?c1=2&c2=4000002&cv=2.0&cj=1" />
+				</noscript>
+	
+	<script>
+(function(wrap){
+      if(wrap.getAttribute("data-jacked2")) return;
+      wrap.onclick = function (e) {
+                e = e||event;
+                                var a = jQuery(e.target).closest("a")[0];
+                                if (!a) return;
+                                if (/\/music\/player\/?$/.test(a.href)) {
+                                                jQuery.comm.send("music.activate", {});
+                        e.cancelBubble = true;
+                        if (e.stopPropagation) e.stopPropagation();
+                                                return false;
+                                }
+                };
+    wrap.setAttribute("data-jacked2", 1);
+
+})(document.querySelector(".wrap"));
+</script>
+	<div id='cl-root'></div>
+<script>
+    window.clAsyncInit = function () {
+        CL.init({ siteId: '9217554822172892262' });
+    }; (function () {
+        var e = document.createElement('script'); e.async = true;
+        e.src = document.location.protocol + '//api.clover.com/static/site.js';
+        document.getElementById('cl-root').appendChild(e);
+    } ());
+</script>
+
+	
+	
+	
+
+	<script>_start.Ready=+new Date;jQuery.ready()</script>
+</body>
